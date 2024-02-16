@@ -1,0 +1,18 @@
+#abc{
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 500px 500px;
+    background-position: center center;
+}
+
+#ab{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size:23px;
+    background-color: transparent; padding:10px; 
+    padding-left:30px; 
+    padding-right:30px; 
+    color:red; border:1px solid transparent; 
+    border-radius:3px;
+    cursor:pointer;
+}
