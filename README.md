@@ -1,4 +1,4 @@
 # simple-website
 
 This is my first simple website.
-I am using html,css and javascript in making this.
+I am using html, CSS, and javascript in making this.
